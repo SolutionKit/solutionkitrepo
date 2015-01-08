@@ -1,2 +1,2 @@
 # solutionkitrepo
-Solution kit repository
+Solution kit repository testing
